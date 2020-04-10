@@ -67,9 +67,9 @@
                 <h2  style="color: #1e8cd5;margin-bottom: .5em;font-size: 1.308em;line-height: 1.2;border-bottom: 2px double #1e8cd5;width: 220px; ">Contact</h2>
             </div>
           Conference Secretary: Ms<br>
-           <img src="./assets/images/email.jpg" style="width:20px;">Email: ICWRER2019@outlook.com<br>
-            <img src="./assets/images/tele.jpg" style="width:20px;">Cell phone: +86 13911264677 / Tel: +86-27-87051286<br>
-            <img src="./assets/images/wexin.jpg" style="width:20px;">Wechat: 13018020541<br>
+           <img src="./assets/images/email.jpg" style="width:20px;">Email: ISWEE2020@outlook.com<br>
+            <img src="./assets/images/tele.jpg" style="width:20px;">Cell phone: +86 111111111111 <br>
+            <img src="./assets/images/wexin.jpg" style="width:20px;">Wechat: 11111111111<br>
 
         </div>
       </div>

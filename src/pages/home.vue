@@ -8,7 +8,7 @@
         2020 International Symposium on Water, Ecology and Environment 
         </p>
         <p>
-          December 6th-8th
+          December 6th-8th 2020
         </p>
       </div>
     </section>
@@ -33,37 +33,20 @@
         <li class="fl">
           <h3>
             <span class="dropcapspot">1</span>
-            Important Dates
-          </h3>
-          <p class="important-dates">
-          <span> Submission Deadline for Full Paper/Abstract: October 15, 2020</span<br />
-          <span> Early Registration Deadline: November 1, 2020</span<br />
-          <span> Notification Date: About 1 week after submission</span<br />
-          <span>  Conference Period: December 6-8, 2020</span<br />
-           
-           
-          
-
-          </p>
-        </li>
-
-        <li class="fl">
-          <h3>
-            <span class="dropcapspot">2</span>
             Login System
           </h3>
           <div class="anniu">
             <div class="anniu_x">
                 <div class="an_l" >
                 <br>
-                  <a href="http://paper.academicconf.com/author/login.aspx?confname=icbeb2020" target="_blank" style="color:#fff;">Submission System (Author Login)</a>
+                  <a href="http://paper.academicconf.com/author/login.aspx?confname=icbeb2020" target="_blank" style="color:#fff;">Author Log System</a>
                 </div>
                 <br />
             </div>
             <div class="anniu_x">
               <div class="an_2">
                 <a href="http://paper.academicconf.com/expert/ExpertLogin.aspx?confname=icbeb2020" target="_blank" style="color:#fff;">
-                  Review System (Reviewer Login)
+                 Reviewer Log System
                 </a>
               </div>
             </div>
@@ -72,7 +55,7 @@
 
         <li class="fl">
           <h3>
-            <span class="dropcapspot">3</span>
+            <span class="dropcapspot">2</span>
             Files Download
           </h3>
           <p class="files-download">
@@ -82,12 +65,28 @@
             <span>4. <a href="file/ICBEB 2020-CFP.pdf" target="_blank">CFP Brochure</a></span>
           </p>
         </li>
+        
+        <li class="fl">
+          <h3>
+            <span class="dropcapspot">3</span>
+            Important Dates
+          </h3>
+          <p class="important-dates">
+          <span> Submission Deadline for Full Paper/Abstract: October 15, 2020</span<br />
+          <span> Early Registration Deadline: November 1, 2020</span<br />
+          <span> Notification Date: About 1 week after submission</span<br />
+          <span>  Conference Period: December 6-8, 2020</span<br />
+
+        </p>
+        </li>
+
+
       </ul>
     </div>
 
     <div class="container">
       <div class="page-title clearfix">
-        <h1><strong>Publication guidelines</strong></h1>
+        <h1><strong>SCI/ISI Publication Guidelines</strong></h1>
       </div>
 
       <ul class="book-list">

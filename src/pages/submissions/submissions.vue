@@ -1,17 +1,19 @@
 <template>
   <div>
-      <banner label="Call for Papers" on="Call for Papers"></banner>
+      <banner label="Submissions" on="Submissions"></banner>
       <section class="container">
-        <div class="mod-05" style="background: url(../assets/images/bg_2.png) center center no-repeat;">
-          <div class="text-1 mb45">
-            Instructions and template for preparing submissions to the conference can be found at：
-          </div>
-          <div class="text-2">
-            <div class="box">
-                <img src="../../assets/images/img_6.jpg" class="db" />
-            </div>
-          </div>
-        </div>
+      <div class="mb20 fs26 color-014c85">Submission guidelines</div>
+      	
+        Abstracts or full papers will be accepted in English and WORD（.doc）format only. Please submit your papers/abstracts via Online System <br>
+        <br>
+        1. Full Paper Submission (Presentation and publication) <br><br>
+        -Accepted full paper will be for both presentation and publication in the conference proceedings.<br><br>
+        -Full Paper including figures and tables should be within 7 pages (authors will be charged extra 50 USD/page if the length is more than 7 pages). (Download Full Paper Template)<br><br>
+
+        2. Abstract Submission (Presentation only) <br><br>
+        -Accepted abstract will be just for oral presentation or poster presentation at the conference and will not be officially published. (Download AbstractTemplate)<br><br>
+        For more information, please contact us at iswee@.
+  
       </section>
   </div>
 </template>
